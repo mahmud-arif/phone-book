@@ -2,7 +2,7 @@
 
 - [Docker](https://docs.docker.com/install/)
 - Docker Compose
-- NodeJS v8 or grater
+- NodeJS version >= v8
 - yarn
 
 # Run required services (For running mongodb in your pc)
